@@ -1,0 +1,42 @@
+{
+  "Employee": [
+    {
+      "id": 9,
+      "ename": "ravi",
+      "email": "ravi",
+      "mobile": "45444",
+      "designation": "ggg",
+      "username": "ggg",
+      "password": "ggg"
+    },
+    {
+      "id": 11,
+      "ename": "gilebi",
+      "email": "gahsk@444",
+      "mobile": "44444444",
+      "designation": "maneger",
+      "username": "ttt",
+      "password": "ttt"
+    },
+    {
+      "id": 12,
+      "ename": "rrr",
+      "email": "rrr",
+      "mobile": "rrrrr",
+      "designation": "rrrr",
+      "username": "rrr",
+      "password": "rrr"
+    }
+  ],
+  "Company": [
+    {
+      "id": 7,
+      "ename": "rrr",
+      "email": "rrr",
+      "mobile": "45444",
+      "designation": "ggg",
+      "username": "aaa",
+      "password": "aaa"
+    }
+  ]
+}
